@@ -103,11 +103,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '联络',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: '联络',
+                to: '/docs/category/联络',
               },
             ],
           },
@@ -129,15 +129,15 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: '内容',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: '三百年满清残暴统治',
+                to: '/docs/category/三百年满清残暴统治',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: '警惕满清复辟',
+                href: '/docs/category/警惕满清复辟',
               },
             ],
           },
