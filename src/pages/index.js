@@ -19,16 +19,16 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="content/history/">
-            耻辱三百年
+            to="/docs/category/三百年满清残暴统治">
+            不忘历史
           </Link>
         </div>
         <p></p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="content/current/intro">
-            阻击复辟洗白
+            to="/docs/category/警惕满清复辟">
+            警惕复辟
           </Link>
         </div>
       </div>
