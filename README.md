@@ -1,41 +1,11 @@
-# Website
+# 1644.icu
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+这个域名很贵的，把这个维护起来很不容易。希望大家多多投稿。
 
-## Installation
+## 投稿方式
 
-```bash
-yarn
-```
+可以直接发邮件给我，也可以维护代码仓库，建议把历史类放到`history`文件夹，现代复辟类的资料放在`current`文件夹，推送上来。以独立的md文件推送，它是可以自动渲染并添加到导航里的
 
-## Local Development
+## 联系方式
 
-```bash
-yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```bash
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
-
-```bash
-USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+info@1644.icu
