@@ -101,47 +101,6 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: '联络',
-            items: [
-              {
-                label: '联络',
-                to: '/docs/category/联络',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: '内容',
-            items: [
-              {
-                label: '三百年满清残暴统治',
-                to: '/docs/category/三百年满清残暴统治',
-              },
-              {
-                label: '警惕满清复辟',
-                href: '/docs/category/警惕满清复辟',
-              },
-            ],
-          },
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} 洪门皇岗山 Built with Docusaurus.`,
       },
       prism: {
