@@ -9,3 +9,23 @@
 ## 联系方式
 
 info@1644.icu
+
+## 怎样开发
+
+先clone整个repo，然后在目录里执行
+```
+npm install
+```
+
+安装好后，执行
+```
+npm start
+```
+
+接着就可以边写边预览，会自动在http://localhost:3000 生成预览网页。直接往docs里的各个文件夹，加md文件，并在文件顶部附加
+```
+---
+sidebar_position: 1
+---
+```
+即可

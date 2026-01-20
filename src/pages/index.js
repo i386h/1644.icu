@@ -40,8 +40,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title} | 勿忘历史，警惕满清复辟`}
+      description="满清三百年是华夏最差，最耻辱，最可怜的阶段，一定要牢记历史；警惕满清复辟势力对文化和教育的渗透、洗白。">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
